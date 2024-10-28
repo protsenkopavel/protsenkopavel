@@ -1,6 +1,6 @@
 ## Hi there 👋 My name's Pavel Protsenko
 
-### I'm a beginner java developer
+### I'm a software developer
 
 - 🔭 I’m currently working on my skills everyday
 - 🌱 I’m currently learning Java

@@ -7,3 +7,5 @@
 - 📫 How to reach me: pavelprotsenko@outlook.com
 
 <a href="https://t.me/let_my_sunshine"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=protsenkopavel&theme=highcontrast&size_weight=0.1&count_weight=0&hide=Makefile,TeX,Perl,Roff,Shell,PowerShell,M4,Batchfile,Assembly,Python&langs_count=20&layout=compact)
